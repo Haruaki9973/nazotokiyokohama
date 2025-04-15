@@ -1,0 +1,9 @@
+cat-game/
+├── src/
+│   └── main/
+│       ├── java/com/example/catgame/
+│       │   └── CatGameController.java
+│       └── resources/
+│           └── static/
+│               └── index.html
+└── build.gradle または pom.xml
